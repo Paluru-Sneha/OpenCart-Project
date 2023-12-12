@@ -1,0 +1,20 @@
+14:41:00.495 [main] INFO  testCases.AccountRegistration - ***Starting account registration****
+14:41:00.667 [main] INFO  testCases.AccountRegistration - ****Clicked on my account****
+14:41:04.710 [main] INFO  testCases.AccountRegistration - ****Clicked register****
+14:41:04.723 [main] INFO  testCases.AccountRegistration - ****filling details****
+14:41:17.593 [main] INFO  testCases.AccountRegistration - ****Clicked on continue****
+14:43:31.705 [main] INFO  testCases.AccountRegistration - ***Starting account registration****
+14:43:31.859 [main] INFO  testCases.AccountRegistration - ****Clicked on my account****
+14:43:35.573 [main] INFO  testCases.AccountRegistration - ****Clicked register****
+14:43:35.580 [main] INFO  testCases.AccountRegistration - ****filling details****
+14:43:48.002 [main] INFO  testCases.AccountRegistration - ****Clicked on continue****
+15:03:30.230 [main] INFO  testCases.AccountRegistration - ***Starting account registration****
+15:03:30.391 [main] INFO  testCases.AccountRegistration - ****Clicked on my account****
+15:03:33.526 [main] INFO  testCases.AccountRegistration - ****Clicked register****
+15:03:33.533 [main] INFO  testCases.AccountRegistration - ****filling details****
+15:03:46.019 [main] INFO  testCases.AccountRegistration - ****Clicked on continue****
+15:09:46.640 [main] INFO  testCases.AccountRegistration - ***Starting account registration****
+15:09:46.869 [main] INFO  testCases.AccountRegistration - ****Clicked on my account****
+15:09:50.621 [main] INFO  testCases.AccountRegistration - ****Clicked register****
+15:09:50.623 [main] INFO  testCases.AccountRegistration - ****filling details****
+15:10:02.926 [main] INFO  testCases.AccountRegistration - ****Clicked on continue****
